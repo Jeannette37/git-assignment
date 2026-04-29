@@ -1,1 +1,2 @@
-This branch demonstrates how to use the multi-cursor feature in VS Code, which allows you to type in multiple places at the same time.
+This branch demonstrates how to use the multi-cursor feature in VS Code, which allows 
+you to type in multiple places at time.
