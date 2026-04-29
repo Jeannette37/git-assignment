@@ -1,4 +1,3 @@
-Git and GitHub Assignment Explanation
 How I will use Git and VS Code for this assignment:
 I will use VS Code as my text editor to create and write the files for this assignment (like this README.md file and feature.txt). I will use the terminal to run Git commands to track the changes I make in VS Code. Git will act as my local history book, allowing me to save checkpoints (git commit), create alternate timelines (git branch), and combine them (git merge).
 
