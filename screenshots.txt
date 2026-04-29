@@ -1,0 +1,21 @@
+Assignment Step-by-Step Proof
+
+1. Initial Commit
+Description: I opened the terminal in VS Code and ran "git init" to initialize the repository. I created a README.md file explaining the assignment. I ran "git add README.md" and "git commit -m 'Add initial README'". The terminal successfully printed the commit hash.
+[Screenshot link placeholder: Terminal showing git init and first commit]
+
+2. Branch Creation
+Description: I ran "git switch feature" in the terminal. The command prompt changed to show (feature), proving I successfully created and moved to an alternative timeline.
+[Screenshot link placeholder: Terminal showing git switch feature]
+
+3. Feature Addition
+Description: While on the feature branch, I created feature.txt and added a note about VS Code's multi-cursor. I staged it with "git add feature.txt" and committed it with "git commit -m 'Add note about VS Code multi-cursor feature'".
+[Screenshot link placeholder: Terminal showing the feature commit]
+
+4. Pull Request & Issue
+Description: On GitHub.com, I created Issue #1. I then went to the Pull Requests tab, compared main and feature, and opened a PR. In the description, I used the keyword "Closes #1".
+[Screenshot link placeholder: GitHub Pull Request page showing Closes #1]
+
+5. Merge & Peer Review
+Description: On the Pull Request page, I clicked the "Files changed" tab, used the blue '+' icon to leave two inline peer review comments, and replied to one. Finally, I clicked "Merge pull request" and "Confirm merge".
+[Screenshot link placeholder: GitHub PR showing the inline comments and green "Merged" badge]
